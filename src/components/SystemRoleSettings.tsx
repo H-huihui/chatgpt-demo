@@ -71,7 +71,7 @@ export default (props: Props) => {
             />
           </div>
           <button onClick={handleButtonClick} h-12 px-4 py-2 bg-slate bg-op-15 hover:bg-op-20 text-slate rounded-sm>
-            Set
+            生成AI角色
           </button>
         </div>
       </Show>
